@@ -1,0 +1,135 @@
+body {
+    margin: 0px;
+    font-family: tahoma;
+}
+
+div {
+    padding: 30px;
+    text-align: center;
+}
+
+.logo-imobiliaria {
+    background-color: #afddfb;
+}
+
+.servicos {
+    background-color: #1d80c1;
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+}
+
+.p-servicos {
+    text-align: center;
+    width: 700px;
+}
+
+.destaque-servicos {
+    color: #fff81b;
+}
+
+.lista-servicos {
+    margin: 40px auto 40px auto;
+    width: 135px;
+    text-align: left;
+    line-height: 42px;
+    font-size: 22px;
+}
+
+p {
+    margin: 10px auto 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.imagem-logo {
+    width: 150px;
+}
+
+.p-logo {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.link-topo {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid 2px #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+}
+
+.banner {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.h2-sobre {
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+.img-sobre {
+    width: 450px;
+}
+
+.span-sobre {
+    color: #1d80c1;
+}
+
+.span-corretores {
+    color: #1c81c0
+}
+
+iframe {
+    border-radius: 20px;
+}
+
+.contato {
+    background-color: #1d80c1;
+    color: #ffffff
+}
+
+.p-contato {
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+.lista-contato {
+    margin: 40px auto 40px auto;
+    width: 210px;
+}
+
+.li-lista {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 2px 5px 2px 5px;
+}
+
+.link-contato {
+    color: #1d80c1;
+}
